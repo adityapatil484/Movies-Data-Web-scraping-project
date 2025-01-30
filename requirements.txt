@@ -1,0 +1,8 @@
+bs4
+datetime
+json
+matplotlib
+pandas
+re
+requests
+seaborn
