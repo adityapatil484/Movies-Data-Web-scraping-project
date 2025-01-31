@@ -18,7 +18,7 @@ Ensure you have the following installed:
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/adityapatil484/Web-scraping-project.git
+   git clone https://github.com/adityapatil484/Movies-Data-Web-scraping-project.git
    ```
 2. Navigate to the project directory:
    ```sh
