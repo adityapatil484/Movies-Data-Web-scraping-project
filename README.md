@@ -22,7 +22,7 @@ Ensure you have the following installed:
    ```
 2. Navigate to the project directory:
    ```sh
-   cd Web-scraping-project
+   cd Movies-Data-Web-scraping-project
    ```
 3. Install dependencies:
    ```sh
@@ -39,7 +39,7 @@ Ensure you have the following installed:
 
 ## Directory Structure
 ```
-Web-scraping-project/
+Movies-Data-Web-scraping-project/
 │-- Movies Dataset creator scraping project.ipynb  # Jupyter Notebook for scraping
 │-- mcu_data.json                                  # Scraped movie data
 │-- README.md                                      # Project documentation
